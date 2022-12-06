@@ -1,0 +1,7 @@
+Started by user [8mha:////4IoKx9CiKjqccMulp+vQNeiBCnYFSzsihCuC/OpRC0KUAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgYe/dLi1CL9stS87EwzACN+oEDBAAAA[0mVenkatesh M
+Running as SYSTEM
+Building in workspace C:\Users\Admin\.jenkins\workspace\JIRA
+[JIRA] $ cmd /c call C:\Users\Admin\AppData\Local\Temp\jenkins12762352185427958260.bat
+
+C:\Users\Admin\.jenkins\workspace\JIRA>newman run D:\WeeklyAssignment\Week2-Assignment\JIRA.postman_collection.json -g D:\WeeklyAssignment\Week2-Assignment\workspace.postman_globals.json -d D:\WeeklyAssignment\Week2-Assignment\Data.csv -r htmlextra 
+Finished: SUCCESS

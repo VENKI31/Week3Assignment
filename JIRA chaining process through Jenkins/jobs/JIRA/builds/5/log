@@ -1,0 +1,7 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Admin\.jenkins\workspace\JIRA
+[JIRA] $ cmd /c call C:\Users\Admin\AppData\Local\Temp\jenkins15783446077048377555.bat
+
+C:\Users\Admin\.jenkins\workspace\JIRA>newman run D:\WeeklyAssignment\Week2-Assignment\JIRA.postman_collection.json -g D:\WeeklyAssignment\Week2-Assignment\workspace.postman_globals.json -d D:\WeeklyAssignment\Week2-Assignment\Data.csv -r htmlextra 
+Finished: SUCCESS

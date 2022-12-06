@@ -1,0 +1,8 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Admin\.jenkins\workspace\JIRA
+[JIRA] $ cmd /c call C:\Users\Admin\AppData\Local\Temp\jenkins12099825354996069154.bat
+
+C:\Users\Admin\.jenkins\workspace\JIRA>newman run D:\WeeklyAssignment\Week2-Assignment\JIRA.postman_collection.json -g D:\WeeklyAssignment\Week2-Assignment\workspace.postman_globals.json -d D:\WeeklyAssignment\Week2-Assignment\Data.csv -r htmlextra 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
